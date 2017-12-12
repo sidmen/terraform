@@ -73,7 +73,7 @@ resource "vsphere_virtual_machine" "vm" {
 #   folder = "${vsphere_folder.terraform-ubuntu-01.path}"
 #   network_interface {
 #       label = "vlan 721"
-#       # ipv4_gateway = "10.117.76.1"
+#       # ipv4_gateway = "X.X.X.X"   
 #   }
 
 #   disk {
