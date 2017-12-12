@@ -18,7 +18,7 @@ data "vsphere_datastore" "datastore" {
 
 
 # data "vsphere_host" "host" {
-#   name          = "10.196.0.13"
+#   name          = "X.X.X.X"
 #   datacenter_id = "${data.vsphere_datacenter.dc.id}"
 # }
 
